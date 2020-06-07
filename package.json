@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-demo",
+  "version": "1.0.0",
+  "description": "testcafe-demo",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matsuhei",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.6"
+  }
+}
